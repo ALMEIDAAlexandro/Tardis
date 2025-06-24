@@ -132,11 +132,9 @@ If you have any issues:
 
 ## 👨‍💻 Author
 
-```c
-void Alexandro_Almeida()
-{
-    printf("First-year project\n");
-    printf("Created by me and Mathis Loiseau\n");
-    printf("Thank you for reading the README :)\n");
-}
+```py
+def Alexandro_Almeida():
+    print("First-year project\n")
+    print("Created by me and Mathis Loiseau\n")
+    print("Thank you for reading the README :)\n")
 ```
